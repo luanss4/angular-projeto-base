@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/luanss4/angular-projeto-base.svg?branch=master)](https://travis-ci.org/luanss4/angular-projeto-base)
+
 # Finansys
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
