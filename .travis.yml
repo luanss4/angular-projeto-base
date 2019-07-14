@@ -9,3 +9,10 @@ before_script:
 script:
   - npm install
   - npm run build
+deploy:
+  provider: heroku
+  api_key:
+    secure: 54f17275-dc0d-476e-8259-282b95f4f187
+  app:  erp-finansys
+  on:
+    repo: luanss4/angular-projeto-base
